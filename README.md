@@ -18,15 +18,11 @@
 
 
 
-- 💻 &nbsp; Python | Java | R | C | MySQL
+- 💻 &nbsp; Delphi | Python | Java | R | C 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🛢 &nbsp; PostgreSQL | MySQL | MongoDB
 
-
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | VScode 
+- 🔧 &nbsp; RAD Studio | Git | Markdown | VScode 
 
 
 
