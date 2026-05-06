@@ -1,78 +1,123 @@
-### Hi there 👋<h2> I'm Ewerton</h2>
+<div align="center">
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=2000&pause=100000&color=A78BFA&center=true&vCenter=true&width=600&height=90&lines=Ewerton+Silva" alt="Ewerton Silva" />
 
-<h3> 👨🏻•💻 About Me </h3>
-
-
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🎓 &nbsp; Studying information systems at UFRN.
-
-- 🌱 &nbsp; learning about machine learning and data mining.
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Delphi | Python | Java | R | C 
-
-- 🛢 &nbsp; PostgreSQL | MySQL | MongoDB
-
-- 🔧 &nbsp; RAD Studio | Git | Markdown | VScode 
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Sonar
-
-<hr>
-
-
-
-<br/><br/>
-
-[![ewerton GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewertonslv&show_icons=true)](https://github.com/ewertonslv)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=2800&pause=1500&color=7C6AEA&center=true&vCenter=true&width=900&height=45&lines=Full+Stack+Developer+%7C+AI+%26+Automation+Builder;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+Flutter;Building+SaaS+%2B+AI+%2B+Multi-agent+Systems+%F0%9F%9A%80" alt="Subtitle" />
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ewerton%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewertonsllva/)
+[![Instagram](https://img.shields.io/badge/Instagram-ewerton__sllva-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ewerton_sllva/)
+[![Gmail](https://img.shields.io/badge/Gmail-ewertoncom297-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ewertoncom297@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ewertonslv&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/Ewertonslv)
+
+</div>
+
+---
+
+## 👨🏻‍💻 About Me
+
+```typescript
+const ewerton = {
+  role:      "Full Stack Developer & AI Builder",
+  education: "Information Systems · UFRN",
+  building:  ["SaaS platforms", "multi-agent AI systems", "cross-platform apps"],
+  stack:     ["TypeScript", "React", "Next.js", "Node.js", "Python", "Flutter"],
+  currently: "Exploring LLM applications & cloud infrastructure",
+  reach:     "ewertoncom297@gmail.com"
+};
+```
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### ⚡ Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,dart&theme=dark" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark" />
+
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
+&nbsp;&nbsp;
+<img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+
+### 🗄 Databases & BaaS
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase&theme=dark" />
+
+### ☁️ Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,nginx,vercel,git,vscode&theme=dark" />
+
+### 🤖 AI & Integrations
+<img alt="Claude API" src="https://img.shields.io/badge/Claude%20API-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img alt="Groq" src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+<img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ewertonslv&theme=tokyonight"/>
+
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ewertonslv&theme=tokyonight" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ewertonslv&theme=tokyonight" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ewertonslv&theme=tokyonight" height="175"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonslv&show_icons=true)
+<br/>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ewertonslv&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
+</div>
 
+---
 
-<hr>
+## 🏆 Trophies
 
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ewertonslv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+</div>
 
+---
 
-<h3> 🤝🏻 Connect with Me </h3>
+## 📈 Activity Graph
 
-<br>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ewertonslv&bg_color=1a1b27&color=A78BFA&line=6E40C9&point=ffffff&area=true&area_color=6E40C9&hide_border=true&custom_title=Ewerton's%20Contribution%20Graph" alt="Activity Graph"/>
+</div>
 
+---
 
+## 🚀 Featured Projects
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/ewertonsllva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ewerton%20Silva-blue?style=flat-square&logo=linkedin"></a>
+| Project | Stack | What it does |
+|:---|:---|:---|
+| 🤖 **Monarch-IA** | Python · FastAPI · Claude API · Docker | Multi-agent AI platform for SaaS automation |
+| 🎓 **Liveaula** | Next.js · Fastify · Prisma · React Native | Full stack live education platform (Web + Mobile) |
+| 🎨 **Landing Pages Monorepo** | React 18 · Vite · Tailwind · Supabase | 6 high-conversion landing page templates |
+| 🗓 **Event Manager** | Node.js · React · PostgreSQL · Docker | SaaS event management with JWT auth |
+| 📸 **Instagram AI Squad** | Node.js · Claude API | 13-agent autonomous Instagram automation |
 
-<a href="https://www.instagram.com/ewerton_sllva/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ewerton_sllva-black?style=flat-square&logo=instagram"></a>
+</div>
 
-<a href="mailto:ewertoncom297@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ewertoncom297@gmail.com-blue?style=flat-square&logo=gmail"></a>
+---
 
-</p>
-
-
-
-
-
-
-<hr>
+<div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=100000&color=7C6AEA&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Thanks+for+visiting+%F0%9F%92%9C+Let%27s+build+something+great" alt="footer"/>
+  <br/><br/>
+</div>
