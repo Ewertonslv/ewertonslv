@@ -84,14 +84,6 @@ const ewerton = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ewertonslv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
