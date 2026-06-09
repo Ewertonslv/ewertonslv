@@ -106,11 +106,11 @@ const ewerton = {
 
 | Project | Stack | What it does |
 |:---|:---|:---|
-| 🤖 **Monarch-IA** | Python · FastAPI · Claude API · Docker | Multi-agent AI platform for SaaS automation |
-| 🎓 **Liveaula** | Next.js · Fastify · Prisma · React Native | Full stack live education platform (Web + Mobile) |
-| 🎨 **Landing Pages Monorepo** | React 18 · Vite · Tailwind · Supabase | 6 high-conversion landing page templates |
-| 🗓 **Event Manager** | Node.js · React · PostgreSQL · Docker | SaaS event management with JWT auth |
-| 📸 **Instagram AI Squad** | Node.js · Claude API | 13-agent autonomous Instagram automation |
+| 🦷 [**recepia**](https://github.com/Ewertonslv/recepia) | FastAPI · PostgreSQL · Groq LLM · WhatsApp | Multi-tenant SaaS: an AI WhatsApp receptionist for clinics — **live demo** |
+| 🔌 [**evolution-whatsapp-mcp**](https://github.com/Ewertonslv/evolution-whatsapp-mcp) | TypeScript · MCP SDK | MCP server exposing WhatsApp to Claude & any MCP client — **published on npm** |
+| 🤖 [**Monarch-IA**](https://github.com/Ewertonslv/Monarch-IA) | Python · FastAPI · Claude API · Docker | Multi-agent orchestration platform (12-agent pipeline) |
+| 🎓 [**Liveaula**](https://github.com/Ewertonslv/liveaula) | Next.js · Fastify · Prisma · React Native | Full-stack EdTech monorepo (web + mobile + API) |
+| 🎨 [**Landing Pages Monorepo**](https://github.com/Ewertonslv/landing-pages-monorepo) | React 18 · Vite · Tailwind | 6 high-conversion landing page templates |
 
 </div>
 
