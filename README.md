@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ewerton%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewertonsllva/)
-[![Instagram](https://img.shields.io/badge/Instagram-ewerton__sllva-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ewerton_sllva/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ewertonslv.github.io-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://ewertonslv.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-ewertoncom297-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ewertoncom297@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ewertonslv&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/Ewertonslv)
 
@@ -19,14 +19,33 @@
 
 ```typescript
 const ewerton = {
-  role:      "Full Stack Developer & AI Builder",
-  education: "Information Systems · UFRN",
-  building:  ["SaaS platforms", "multi-agent AI systems", "cross-platform apps"],
-  stack:     ["TypeScript", "React", "Next.js", "Node.js", "Python", "Flutter"],
-  currently: "Exploring LLM applications & cloud infrastructure",
-  reach:     "ewertoncom297@gmail.com"
+  role:       "Software Engineer · AI & Full-Stack",
+  experience: "4.5 yrs shipping production ERP & fiscal software",
+  education:  "Information Systems · UFRN",
+  building:   ["AI-powered SaaS", "multi-agent systems", "MCP servers"],
+  stack:      ["Python", "TypeScript", "FastAPI", "React/Next.js", "PostgreSQL"],
+  openTo:     "Remote roles · US / EU timezones",
+  reach:      "ewertoncom297@gmail.com"
 };
 ```
+
+---
+
+## 💼 Experience
+
+**Software Engineer (Delphi)** · **Viggo Sistemas** · 2022 – Present (~4.5 years)
+
+> [Viggo Sistemas](https://viggo.digital) is a GPTW-certified Brazilian software company whose
+> commercial-automation ERP serves **1,200+ businesses across 13 states**.
+
+Part of a 3-engineer team, building and operating the ERP end-to-end:
+
+- 🧾 **Brazilian fiscal engine** — e-invoicing (NF-e, NFC-e, MDF-e) and SPED / tax-reform logic. Software where a bug means a client legally can't sell.
+- 🛠️ **Backend & APIs** — features, integrations and REST APIs in Delphi, on top of a large legacy codebase I maintain, refactor and improve.
+- 🗄️ **PostgreSQL** — owning the production database for 4+ years: schema, queries, performance and data integrity.
+- 🤖 **AI-first workflow** — today I ship with Claude + modern engineering practices, keeping Delphi for legacy / manual operations.
+
+_Coming from software where mistakes are expensive — money and tax compliance — shaped how I build: carefully, and tested where it counts._
 
 ---
 
@@ -98,11 +117,10 @@ const ewerton = {
 
 | Project | Stack | What it does |
 |:---|:---|:---|
-| 🦷 [**recepia**](https://github.com/Ewertonslv/recepia) | FastAPI · PostgreSQL · Groq LLM · WhatsApp | Multi-tenant SaaS: an AI WhatsApp receptionist for clinics — **live demo** |
-| 🔌 [**evolution-whatsapp-mcp**](https://github.com/Ewertonslv/evolution-whatsapp-mcp) | TypeScript · MCP SDK | MCP server exposing WhatsApp to Claude & any MCP client — **published on npm** |
-| 🤖 [**Monarch-IA**](https://github.com/Ewertonslv/Monarch-IA) | Python · FastAPI · Claude API · Docker | Multi-agent orchestration platform (12-agent pipeline) |
+| 🦷 [**recepia**](https://github.com/Ewertonslv/recepia) | FastAPI · PostgreSQL · Groq LLM · WhatsApp | Multi-tenant SaaS: an AI WhatsApp receptionist for clinics — [**live demo ↗**](https://recepia.app.br) |
+| 🔌 [**evolution-whatsapp-mcp**](https://github.com/Ewertonslv/evolution-whatsapp-mcp) | TypeScript · MCP SDK | MCP server exposing WhatsApp (Evolution API) as tools for Claude & any MCP client — [**on npm ↗**](https://www.npmjs.com/package/evolution-whatsapp-mcp) |
+| 🤖 [**Monarch-IA**](https://github.com/Ewertonslv/Monarch-IA) | Python · FastAPI · Claude API · Docker | Multi-agent orchestration on the Claude API, with human-in-the-loop approval gates |
 | 🎓 [**Liveaula**](https://github.com/Ewertonslv/liveaula) | Next.js · Fastify · Prisma · React Native | Full-stack EdTech monorepo (web + mobile + API) |
-| 🎨 [**Landing Pages Monorepo**](https://github.com/Ewertonslv/landing-pages-monorepo) | React 18 · Vite · Tailwind | 6 high-conversion landing page templates |
 
 </div>
 
