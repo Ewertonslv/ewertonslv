@@ -36,7 +36,7 @@ const ewerton = {
 **Software Engineer (Delphi)** · **Viggo Sistemas** · 2022 – Present (~4.5 years)
 
 > [Viggo Sistemas](https://viggo.digital) is a GPTW-certified Brazilian software company whose
-> commercial-automation ERP serves **1,200+ businesses across 13 states**.
+> commercial-automation ERP serves **5,000+ retailers across 16 states**.
 
 Part of a 3-engineer team, building and operating the ERP end-to-end:
 
