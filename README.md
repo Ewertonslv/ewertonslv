@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=2000&pause=100000&color=A78BFA&center=true&vCenter=true&width=600&height=90&lines=Ewerton+Silva" alt="Ewerton Silva" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=2800&pause=1500&color=7C6AEA&center=true&vCenter=true&width=900&height=45&lines=Software+Engineer+%C2%B7+AI+%26+Full-Stack;Python+%7C+TypeScript+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Building+AI+SaaS%2C+multi-agent+systems+and+MCP+servers" alt="Software Engineer · AI & Full-Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=2800&pause=1500&color=7C6AEA&center=true&vCenter=true&width=900&height=45&lines=AI+Engineer+%C2%B7+LLM+Systems%2C+Agents+%26+MCP;Python+%7C+TypeScript+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Building+AI+SaaS%2C+multi-agent+systems+and+MCP+servers" alt="AI Engineer · LLM Systems, Agents & MCP" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ```typescript
 const ewerton = {
-  role:       "Software Engineer · AI & Full-Stack",
+  role:       "AI Engineer · LLM Systems, Agents & MCP",
   experience: "4.5 yrs shipping production ERP & fiscal software",
   education:  "Information Systems, UFRN (coursework complete, final thesis pending)",
   building:   ["AI-powered SaaS", "multi-agent systems", "MCP servers"],
